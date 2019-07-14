@@ -1,1 +1,0 @@
-../../libs/libs16/releases/bios/v0.3/bios15.asm

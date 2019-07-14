@@ -1,1 +1,0 @@
-../../libs/libs16/releases/copyright/v0.1/copyrigh.pas
