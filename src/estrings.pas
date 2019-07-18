@@ -1,1 +1,1 @@
-../../libs/libs16/releases/estrings/v0.1/estrings.pas
+../../libs/libs16/src/estrings.pas

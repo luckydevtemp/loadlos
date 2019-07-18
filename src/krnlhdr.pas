@@ -1,1 +1,1 @@
-../../libs/libs16/releases/krnlhdr/v0.1/krnlhdr.pas
+../../libs/libs16/src/krnlhdr.pas

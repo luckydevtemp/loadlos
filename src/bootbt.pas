@@ -1,1 +1,1 @@
-../../libs/libs16/releases/bootbt/v0.2/bootbt.pas
+../../libs/libs16/src/bootbt.pas

@@ -1,1 +1,1 @@
-../../libs/libs16/releases/a20/v0.1/a20check.asm
+../../libs/libs16/src/a20check.asm

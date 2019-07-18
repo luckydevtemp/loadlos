@@ -1,1 +1,1 @@
-../../libs/libs16/releases/basic/v0.7/basic.pas
+../../libs/libs16/src/basic.pas

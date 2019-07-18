@@ -1,1 +1,1 @@
-../../libs/libs16/releases/meminfo/v0.4/meminfo.pas
+../../libs/libs16/src/meminfo.pas

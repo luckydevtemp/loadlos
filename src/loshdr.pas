@@ -1,1 +1,1 @@
-../../libs/libs16/releases/loshdr/v0.1/loshdr.pas
+../../libs/libs16/src/loshdr.pas

@@ -1,1 +1,1 @@
-../../libs/libs16/releases/intrpts/v0.1/intrpts.asm
+../../libs/libs16/src/intrpts.asm

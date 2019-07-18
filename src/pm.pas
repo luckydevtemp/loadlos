@@ -1,1 +1,1 @@
-../../libs/libs16/releases/pm/v0.2/pm.pas
+../../libs/libs16/src/pm.pas

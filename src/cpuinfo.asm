@@ -1,1 +1,1 @@
-../../libs/libs16/releases/cpuinfo/v0.1/cpuinfo.asm
+../../libs/libs16/src/cpuinfo.asm
