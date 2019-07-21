@@ -1,15 +1,18 @@
 # LoadLOS #
 **Repositório do Projeto LOS para o bootloader via DOS**
 
-Este repositório será usado para implementação de um bootloader inicial
+Este repositório é um submódulo do projeto LOS e será usado para a implementação de um bootloader inicial.
 
-```
-Para um correto funcionamento, este repositório deve estar localizado no diretório:
-
-	.../LuckyOS/src/loadlos
-```
+***Não é necessário que o mesmo seja obtido individualmente.***
 
 ## Revisões ##
+
+* **loadlos-v0.16:** Reorganização da estrutura.
+Requisitos:
+
+```
+LOS-Libs16.build-017
+```
 
 * **loadlos-v0.15:** Mudança nas tabelas de boot.
 Requisitos:
