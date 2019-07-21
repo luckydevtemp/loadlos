@@ -1,1 +1,0 @@
-../../libs/libs16/releases/crtinfo/v0.3/crtinfo.pas
